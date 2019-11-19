@@ -9,10 +9,6 @@ public class Enemy : MonoBehaviour
 
     private Transform[] points;
     // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     void OnDrawGizmos()
     {
